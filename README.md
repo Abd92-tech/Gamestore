@@ -26,7 +26,12 @@ promotion des articles  en haut de la page
 barre de recherche
 
 
+<img width="874" height="723" alt="diagramme de cas d'utilisation" src="https://github.com/user-attachments/assets/f8024ce8-a7b9-4505-9a5e-05d6bb14b133" />
 
+<img width="782" height="613" alt="diagramme d'exigence" src="https://github.com/user-attachments/assets/cbbda83b-dbe7-48ab-a432-f5d468147378" />
+
+
+<img width="782" height="613" alt="diagramme d'exigence" src="https://github.com/user-attachments/assets/516f6b70-315e-45ee-97ce-9e7514f202a2" />
 
 
 
