@@ -31,7 +31,7 @@ barre de recherche
 <img width="782" height="613" alt="diagramme d'exigence" src="https://github.com/user-attachments/assets/cbbda83b-dbe7-48ab-a432-f5d468147378" />
 
 
-<img width="782" height="613" alt="diagramme d'exigence" src="https://github.com/user-attachments/assets/516f6b70-315e-45ee-97ce-9e7514f202a2" />
+
 
 
 
