@@ -1,5 +1,5 @@
 # Gamestore 
-l'utilisateur peut se connecter et s'inscrire et peut choisir la langue
+l'utilisateur peut se connecter et s'inscrire 
 l'utilisateur peut ajouter au panier ,choisir ses articles et les acheter
 l'utilisateur peut lire les informations des articles et les avis
 l'utilisateur doit communiquer ses informations personelles afin d'aboutir à l'achat de l'article
