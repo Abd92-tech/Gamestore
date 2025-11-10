@@ -22,7 +22,7 @@ choix des langues
 réponses aux questions posée par les visiteurs du site 
 avis sur les jeux ou accessoires par les visiteurs
 promotion des articles  en haut de la page
-barre de recherche
+barre de recherche 
 
 <img width="874" height="723" alt="diagramme de cas d'utilisation" src="https://github.com/user-attachments/assets/f8024ce8-a7b9-4505-9a5e-05d6bb14b133" />
 
