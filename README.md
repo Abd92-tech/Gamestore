@@ -13,7 +13,6 @@ estethique(avec couleurs blanc en fond  et violet comme écriture)
 avis sur le site 
 accesoires different (3) 
 prix abordable
-affichage API
 actualité sur les nouveaux jeu 
 notification sur les actualités des jeux/accessoires 
 description du site
