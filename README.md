@@ -1,4 +1,4 @@
-# Gamestore 
+# STIgames
 l'utilisateur peut se connecter et s'inscrire 
 l'utilisateur peut ajouter au panier ,choisir ses articles et les acheter
 l'utilisateur peut lire les informations des articles et les avis
