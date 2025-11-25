@@ -5,12 +5,11 @@ l'utilisateur peut lire les informations des articles et les avis
 l'utilisateur doit communiquer ses informations personelles afin d'aboutir à l'achat de l'article
 l'utilisateur doit pouvoir mettre un avis
 facile d'utilisation 
-avoir 6 jeux minimum 
+avoir 4 jeux minimum 
 site facile a prendre en main
 il doit etre claire et comprehensible
 le site ne doit pas avoir énormément de bug
 estethique(avec couleurs blanc en fond  et violet comme écriture)
-avis sur le site 
 accesoires different (3) 
 prix abordable
 actualité sur les nouveaux jeu 
