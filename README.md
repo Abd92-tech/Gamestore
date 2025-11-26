@@ -1,7 +1,7 @@
 # STIgames
 l'utilisateur peut se connecter et s'inscrire 
 l'utilisateur peut ajouter au panier ,choisir ses articles et les acheter
-l'utilisateur peut voir avis
+l'utilisateur peut voir les informations de l'article et les avis
 l'utilisateur doit communiquer ses informations personelles afin d'aboutir à l'achat de l'article
 l'utilisateur doit pouvoir mettre un avis
 facile d'utilisation 
